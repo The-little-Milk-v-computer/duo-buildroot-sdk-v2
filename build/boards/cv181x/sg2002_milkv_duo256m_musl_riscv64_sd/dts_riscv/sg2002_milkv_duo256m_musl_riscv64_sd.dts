@@ -5,7 +5,7 @@
 #include "cv181x_default_memmap.dtsi"
 
 / {
-	model = "Milk-V Duo256M";
+	model = "Meshtastic Milk-V Duo256M";
 };
 
 &dac {
